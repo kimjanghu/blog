@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "857e00fcd3041c9c",
+        "id": "284c986bfea03ae7",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d372cb12564c6d",
+            "id": "54a41f95e88d5ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-retrospect.md",
+                "file": "reading-list/Refeactoring/Refectoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eac5cdc838379124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading-list/Refeactoring/Refectoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8abf1aa7f413d4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-retrospect.md",
+                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-retrospect.md",
+                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-retrospect.md"
+                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md"
               }
             }
           }
@@ -146,10 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1d372cb12564c6d",
+  "active": "8abf1aa7f413d4be",
   "lastOpenFiles": [
-    "Screenshot 2024-01-06 at 17.25.04.png",
+    "reading-list/Refeactoring/Refectoring.md",
+    "reading-list/reading-list.md",
     "2023-retrospect.md",
+    "reading-list/Refeactoring/Refactoring 2nd Edition CH.01.md",
+    "REFEACTORING.md",
+    "reading-list/Refeactoring",
+    "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
+    "reading-list",
+    "Screenshot 2024-01-06 at 17.25.04.png",
     "3.-24년-계획.md"
   ]
 }

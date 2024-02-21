@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading-list/Refeactoring/Refectoring.md",
+                "file": "reading-list/Refactoring/Refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading-list/Refeactoring/Refectoring.md",
+                "file": "reading-list/Refactoring/Refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
+                "file": "reading-list/Refactoring/Refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
+                "file": "reading-list/Refactoring/Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
+                "file": "reading-list/Refactoring/Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md"
+                "file": "reading-list/Refactoring/Refactoring.md"
               }
             }
           }
@@ -171,15 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8abf1aa7f413d4be",
+  "active": "b4b0aa2283b82acc",
   "lastOpenFiles": [
-    "reading-list/Refeactoring/Refectoring.md",
+    "reading-list/Refactoring/Refactoring 2nd Edition CH.02.md",
+    "reading-list/Refactoring/Refactoring.md",
     "reading-list/reading-list.md",
     "2023-retrospect.md",
-    "reading-list/Refeactoring/Refactoring 2nd Edition CH.01.md",
+    "reading-list/Refactoring/Refactoring 2nd Edition CH.01.md",
     "REFEACTORING.md",
-    "reading-list/Refeactoring",
-    "reading-list/Refeactoring/Refactoring 2nd Edition CH.02.md",
+    "reading-list/Refactoring",
     "reading-list",
     "Screenshot 2024-01-06 at 17.25.04.png",
     "3.-24년-계획.md"

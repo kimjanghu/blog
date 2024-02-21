@@ -1,7 +1,7 @@
 # Reading List
 
 
-[[Refectoring]]
+[[Refactoring]]
 
 
 ## To read

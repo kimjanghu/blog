@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading-list/Refactoring/Refactoring.md",
+                "file": "reading-list/Refactoring/Refactoring 2nd Edition CH.02.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading-list/Refactoring/Refactoring.md",
+                "file": "reading-list/Refactoring/Refactoring 2nd Edition CH.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reading-list/Refactoring/Refactoring.md",
+                "file": "reading-list/Refactoring/Refactoring 2nd Edition CH.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading-list/Refactoring/Refactoring.md"
+                "file": "reading-list/Refactoring/Refactoring 2nd Edition CH.02.md"
               }
             }
           }
@@ -171,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4b0aa2283b82acc",
+  "active": "8abf1aa7f413d4be",
   "lastOpenFiles": [
+    "reading-list/Refactoring/Refactoring 2nd Edition CH.01.md",
     "reading-list/Refactoring/Refactoring 2nd Edition CH.02.md",
     "reading-list/Refactoring/Refactoring.md",
     "reading-list/reading-list.md",
     "2023-retrospect.md",
-    "reading-list/Refactoring/Refactoring 2nd Edition CH.01.md",
     "REFEACTORING.md",
     "reading-list/Refactoring",
     "reading-list",
